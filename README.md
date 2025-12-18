@@ -199,3 +199,9 @@ http://localhost:8501
 
 - Tirth Chankeshwara
 - Engineering Student | Data Analyst | AI/ML Enthusiast
+---
+## 📧 Reach me at:
+
+**Contact:** [tirthchankeshwara@gmail.com](mailto:tirthchankeshwara@gmail.com)
+
+---
