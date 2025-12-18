@@ -186,14 +186,7 @@ http://localhost:8501
 - Streamlit
 - TF-IDF
 - Logistic Regression
----
 
-### 📌 Future Enhancements
-
-- BERT-based text classification
-- SHAP-based explainability
-- Multilingual fake news detection
-- Cloud deployment (Streamlit Cloud / Hugging Face Spaces)
 ---
 ### 👨‍💻 Author
 
